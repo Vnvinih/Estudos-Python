@@ -7,5 +7,5 @@
  - Estrutura básica da linguagem Python, declaração de variáveis e tipos de dados
  - Estruturas lógicas
  - Funções
- - 
+   
 
